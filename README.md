@@ -1,6 +1,6 @@
 # upwork-scheduler
 
-I heard about [Upwork](http://upwork.com) this moring so I thought I'd check it out.  
+I heard about [Upwork](http://upwork.com) this morning so I thought I'd check it out.  
 
 This coding task was at the very top of the page this morning under "Java Jobs" so I played around with it over morning coffee.
 I don't have an account and I made no effort to get paid -- this was just for fun and practice.
